@@ -1,0 +1,9 @@
+Project 1 - One Page Layout
+
+This project aims to recreate a pixel perfect design and make a one-page responsive layout.
+This is also a beginner-level project that allows freshers to test their newly acquired knowledge and skill level.
+
+Conquer template???
+
+This template comes loaded with a host of unique layouts. Also, it brings before you a series of challenges
+that Web Developers often face in real-world scenarios.
